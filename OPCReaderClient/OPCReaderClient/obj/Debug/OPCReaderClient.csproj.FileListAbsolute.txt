@@ -1,0 +1,9 @@
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\bin\Debug\OPCReaderClient.exe.config
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\bin\Debug\OPCReaderClient.exe
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\bin\Debug\OPCReaderClient.pdb
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.csprojResolveAssemblyReference.cache
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.OPCClient.resources
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.Properties.Resources.resources
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.csproj.GenerateResource.Cache
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.exe
+D:\Test_project\OPCReader\OPCReaderClient\OPCReaderClient\obj\Debug\OPCReaderClient.pdb

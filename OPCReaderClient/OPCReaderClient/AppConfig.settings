@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OPCReaderClient" GeneratedClassName="AppConfig">
+  <Profiles />
+  <Settings>
+    <Setting Name="DATABASE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.10.10.21</Value>
+    </Setting>
+    <Setting Name="Reconnect" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=ServerName;Initial Catalog=DatabaseName;User ID=UserName;Password=Password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
